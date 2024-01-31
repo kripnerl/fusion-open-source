@@ -17,7 +17,9 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**KSTAR-NN**](https://github.com/jaem-seo/KSTAR_tokamak_simulator) ![GitHub User's stars](https://img.shields.io/github/stars/jaem-seo/KSTAR_tokamak_simulator?style=flat&label=%E2%AD%90): KSTAR tokamak simulator
 * [**PROCESS**](https://github.com/ukaea/PROCESS) ![GitHub User's stars](https://img.shields.io/github/stars/ukaea/PROCESS?style=flat&label=%E2%AD%90): PROCESS is a systems code at UKAEA that calculates in a self-consistent manner the parameters of a fusion power plant with specified performance, ensuring that its operating limits are not violated, and with the option to optimise to a given function of these parameters.
 * [**Paramac**](https://github.com/ukaea/paramak) ![GitHub User's stars](https://img.shields.io/github/stars/ukaea/paramak?style=flat&label=%E2%AD%90): Create parametric 3D fusion reactor CAD models
-* [**Fidasim**](https://github.com/D3DEnergetic/FIDASIM) ![GitHub User's stars](https://img.shields.io/github/stars/D3DEnergetic%2FFIDASIM?style=flat&label=%E2%AD%90): A Neutral Beam and Fast-ion Diagnostic Modeling Suite* 
+* [**Fidasim**](https://github.com/D3DEnergetic/FIDASIM) ![GitHub User's stars](https://img.shields.io/github/stars/D3DEnergetic%2FFIDASIM?style=flat&label=%E2%AD%90): A Neutral Beam and Fast-ion Diagnostic Modeling Suite*
+* [**PINT**](https://gitlab.com/qualikiz-group/pyntegrated_model): PINT (Python INTegrated tokamak model) is a minimal integrated modelling suite in Python for tokamak 1D core transport.
+* [**QuaLiKiz**](https://gitlab.com/qualikiz-group): QuaLiKiz is a quasilinear gyrokinetic code rapid enough to ease systematic interface with experiments.
 
 ## Tags to search: 
 
