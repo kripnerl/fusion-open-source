@@ -1,4 +1,4 @@
-# Nuclear Fusion Open Source project  
+# Nuclear Fusion Open Source projects
 
 I have initiated this repository to collect (and maintain?) a list of open-source projects related to (magnetic) Nuclear Fusion. 
 
