@@ -19,7 +19,8 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**Paramac**](https://github.com/ukaea/paramak) ![GitHub User's stars](https://img.shields.io/github/stars/ukaea/paramak?style=flat&label=%E2%AD%90): Create parametric 3D fusion reactor CAD models
 * [**Fidasim**](https://github.com/D3DEnergetic/FIDASIM) ![GitHub User's stars](https://img.shields.io/github/stars/D3DEnergetic%2FFIDASIM?style=flat&label=%E2%AD%90): A Neutral Beam and Fast-ion Diagnostic Modeling Suite*
 * [**PINT**](https://gitlab.com/qualikiz-group/pyntegrated_model): PINT (Python INTegrated tokamak model) is a minimal integrated modelling suite in Python for tokamak 1D core transport.
-* [**QuaLiKiz**](https://gitlab.com/qualikiz-group): QuaLiKiz is a quasilinear gyrokinetic code rapid enough to ease systematic interface with experiments.
+* [**QuaLiKiz**](https://gitlab.com/qualikiz-group): QuaLiKiz is a quasilinear gyrokinetic code rapid enough to ease systematic interface with experiments.)
+* [**HEAT**](https://github.com/plasmapotential/HEAT) ![GitHub User's stars](https://img.shields.io/github/stars/plasmapotential/HEAT?style=flat&label=%E2%AD%90): The Heat flux Engineering Analysis Toolkit (HEAT) is a suite of tools for predicting the heat flux incident upon PFCs in tokamaks, and the associated PFC state (ie temperature).
 
 ## Tags to search: 
 
