@@ -21,11 +21,13 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**PINT**](https://gitlab.com/qualikiz-group/pyntegrated_model): PINT (Python INTegrated tokamak model) is a minimal integrated modelling suite in Python for tokamak 1D core transport.
 * [**QuaLiKiz**](https://gitlab.com/qualikiz-group): QuaLiKiz is a quasilinear gyrokinetic code rapid enough to ease systematic interface with experiments.)
 * [**HEAT**](https://github.com/plasmapotential/HEAT) ![GitHub User's stars](https://img.shields.io/github/stars/plasmapotential/HEAT?style=flat&label=%E2%AD%90): The Heat flux Engineering Analysis Toolkit (HEAT) is a suite of tools for predicting the heat flux incident upon PFCs in tokamaks, and the associated PFC state (ie temperature).
-* [**FAROES **](https://github.com/PlasmaControl/FAROES) ![GitHub User's stars](https://img.shields.io/github/stars/PlasmaControl/FAROES?style=flat&label=%E2%AD%90) A Python package for optimizing fusion power plants, and especially for optimizing properties like their capital cost or levelized cost of energy.
+* [**FAROES**](https://github.com/PlasmaControl/FAROES) ![GitHub User's stars](https://img.shields.io/github/stars/PlasmaControl/FAROES?style=flat&label=%E2%AD%90) A Python package for optimizing fusion power plants, and especially for optimizing properties like their capital cost or levelized cost of energy.
+* [**OFT**](https://github.com/hansec/OpenFUSIONToolkit) ![GitHub User's stars](https://img.shields.io/github/stars/hansec/OpenFUSIONToolkit?style=flat&label=%E2%AD%90) Open Flexible Unstructured Simulation Infrastructure with Open Numerics (FUSION) Toolkit (OFT)
+* [**TORAX**](https://github.com/google-deepmind/torax) ![GitHub User's stars](https://img.shields.io/github/stars/google-deepmind/torax?style=flat&label=%E2%AD%90): TORAX is a differentiable tokamak core transport simulator aimed for fast and accurate forward modelling, pulse-design, trajectory optimization, and controller design workflows.
 
 ## Tags to search: 
 
-Actually, it is not easy to look for fusion-related stuff since most keywords in the field have multiple meanings: `plasma`, `fusion`, `nuclear`, etc.  Moreover, most of the projects do not use tags at all. 
+It is not easy to find fusion-related material since most keywords in the field have multiple meanings: `plasma`, `fusion`, `nuclear`, etc. Moreover, most projects do not use tags at all. 
 
 * [`tomamak`](https://github.com/topics/tokamak)
 * [`tokamaks`](https://github.com/topics/tokamak)
