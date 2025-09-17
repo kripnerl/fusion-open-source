@@ -25,6 +25,7 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**FAROES**](https://github.com/PlasmaControl/FAROES) ![GitHub User's stars](https://img.shields.io/github/stars/PlasmaControl/FAROES?style=flat&label=%E2%AD%90) A Python package for optimizing fusion power plants, and especially for optimizing properties like their capital cost or levelized cost of energy.
 * [**OFT**](https://github.com/hansec/OpenFUSIONToolkit) ![GitHub User's stars](https://img.shields.io/github/stars/hansec/OpenFUSIONToolkit?style=flat&label=%E2%AD%90) Open Flexible Unstructured Simulation Infrastructure with Open Numerics (FUSION) Toolkit (OFT)
 * [**TORAX**](https://github.com/google-deepmind/torax) ![GitHub User's stars](https://img.shields.io/github/stars/google-deepmind/torax?style=flat&label=%E2%AD%90): TORAX is a differentiable tokamak core transport simulator aimed for fast and accurate forward modelling, pulse-design, trajectory optimization, and controller design workflows.
+* [**GSFit**](https://github.com/tokamak-energy/gsfit) ![GitHub User's stars](https://img.shields.io/github/stars/tokamak-energy/gsfit?style=flat&label=%E2%AD%90), Grad-Shafranov Fit. Is a modern tokamak equilibrium reconstruction tool for post-shot experimental analysis.
 * [**VMEC++**](https://github.com/proximafusion/vmecpp) ![GitHub User's stars](https://img.shields.io/github/stars/proximafusion/vmecpp?style=flat&label=%E2%AD%90): VMEC++ is a from-scratch C++ and Python reimplementation of the Variational Moments Equilibrium Code (VMEC).
 
 ## Tags to search: 
