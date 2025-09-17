@@ -14,7 +14,7 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**FreeGS**](https://github.com/freegs-plasma/freegs) ![GitHub User's stars](https://img.shields.io/github/stars/freegs-plasma/freegs?style=flat&label=%E2%AD%90): Equilibrium framework with freeboundary Grad-Shafranov equation solver.
 * [**FreeGSNKE**](https://github.com/FusionComputingLab/freegsnke) ![GitHub User's stars](https://img.shields.io/github/stars/FusionComputingLab/freegsnke?style=flat&label=%E2%AD%90): The code based on FreeGS with implemented direct and evolution mode for solving G-S equation. (Free-boundary Grad-Shafranov Newton-Krylov Evolve)  
 * [**PLEQUE**](https://github.com/kripnerl/pleque) ![GitHub User's stars](https://img.shields.io/github/stars/kripnerl/pleque?style=flat&label=%E2%AD%90): Framework for easy equilibrium manipulation.
-* [**DECS**](https://github.com/PlasmaControl/DESC) ![GitHub User's stars](https://img.shields.io/github/stars/PlasmaControl/DESC?style=flat&label=%E2%AD%90): Stellarator Optimization Package
+* [**DESC**](https://github.com/PlasmaControl/DESC) ![GitHub User's stars](https://img.shields.io/github/stars/PlasmaControl/DESC?style=flat&label=%E2%AD%90): Stellarator Optimization Package
 * [**KSTAR-NN**](https://github.com/jaem-seo/KSTAR_tokamak_simulator) ![GitHub User's stars](https://img.shields.io/github/stars/jaem-seo/KSTAR_tokamak_simulator?style=flat&label=%E2%AD%90): KSTAR tokamak simulator
 * [**PROCESS**](https://github.com/ukaea/PROCESS) ![GitHub User's stars](https://img.shields.io/github/stars/ukaea/PROCESS?style=flat&label=%E2%AD%90): PROCESS is a systems code at UKAEA that calculates in a self-consistent manner the parameters of a fusion power plant with specified performance, ensuring that its operating limits are not violated, and with the option to optimise to a given function of these parameters.
 * [**Paramak**](https://github.com/fusion-energy/paramak) ![GitHub User's stars](https://img.shields.io/github/stars/fusion-energy/paramak?style=flat&label=%E2%AD%90): Create parametric 3D fusion reactor CAD models
@@ -25,11 +25,14 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**FAROES**](https://github.com/PlasmaControl/FAROES) ![GitHub User's stars](https://img.shields.io/github/stars/PlasmaControl/FAROES?style=flat&label=%E2%AD%90) A Python package for optimizing fusion power plants, and especially for optimizing properties like their capital cost or levelized cost of energy.
 * [**OFT**](https://github.com/hansec/OpenFUSIONToolkit) ![GitHub User's stars](https://img.shields.io/github/stars/hansec/OpenFUSIONToolkit?style=flat&label=%E2%AD%90) Open Flexible Unstructured Simulation Infrastructure with Open Numerics (FUSION) Toolkit (OFT)
 * [**TORAX**](https://github.com/google-deepmind/torax) ![GitHub User's stars](https://img.shields.io/github/stars/google-deepmind/torax?style=flat&label=%E2%AD%90): TORAX is a differentiable tokamak core transport simulator aimed for fast and accurate forward modelling, pulse-design, trajectory optimization, and controller design workflows.
+* [**VMEC++**](https://github.com/proximafusion/vmecpp) ![GitHub User's stars](https://img.shields.io/github/stars/proximafusion/vmecpp?style=flat&label=%E2%AD%90): VMEC++ is a from-scratch C++ and Python reimplementation of the Variational Moments Equilibrium Code (VMEC).
 
 ## Tags to search: 
 
 It is not easy to find fusion-related material since most keywords in the field have multiple meanings: `plasma`, `fusion`, `nuclear`, etc. Moreover, most projects do not use tags at all. 
 
+* [`stellarator`](https://github.com/topics/stellarator)
+* [`stellarators`](https://github.com/topics/stellarators)
 * [`tomamak`](https://github.com/topics/tokamak)
 * [`tokamaks`](https://github.com/topics/tokamak)
 * [`nuclear-fusion`](https://github.com/topics/nuclear-fusion)
