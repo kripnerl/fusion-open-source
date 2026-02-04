@@ -34,6 +34,7 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**Stellarator-Tools**](https://github.com/ORNL-Fusion/Stellarator-Tools) ![GitHub User's stars](https://img.shields.io/github/stars/ORNL-Fusion/Stellarator-Tools?style=flat&label=%E2%AD%90): This is an umbrella project for the stellarator community tools. 
 * [**SIMPLE**](https://github.com/itpplasma/SIMPLE) ![GitHub User's stars](https://img.shields.io/github/stars/itpplasma/SIMPLE?style=flat&label=%E2%AD%90): Symplectic Integration Methods for Particle Loss Estimation
 * [**BIEST**](https://github.com/dmalhotra/BIEST) ![GitHub User's stars](https://img.shields.io/github/stars/dmalhotra/BIEST?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
+* [**GVEC**](https://gitlab.mpcdf.mpg.de/gvec-group/gvec): Galerkin Variational Equilibrium Code - an open-source software for the generation of three-dimensional ideal MHD equilibria
 
 ## Tags to search: 
 
