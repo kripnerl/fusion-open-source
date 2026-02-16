@@ -37,6 +37,11 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**SIMPLE**](https://github.com/itpplasma/SIMPLE) ![GitHub User's stars](https://img.shields.io/github/stars/itpplasma/SIMPLE?style=flat&label=%E2%AD%90): Symplectic Integration Methods for Particle Loss Estimation
 * [**BIEST**](https://github.com/dmalhotra/BIEST) ![GitHub User's stars](https://img.shields.io/github/stars/dmalhotra/BIEST?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
 * [**GVEC**](https://gitlab.mpcdf.mpg.de/gvec-group/gvec): Galerkin Variational Equilibrium Code - an open-source software for the generation of three-dimensional ideal MHD equilibria
+* [**ASCOT5**](https://github.com/ascot4fusion/ascot5) ![GitHub User's stars](https://img.shields.io/github/stars/ascot4fusion/ascot5?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
+* [**XICSRT**](https://github.com/PrincetonUniversity/xicsrt) ![GitHub User's stars](https://img.shields.io/github/stars/PrincetonUniversity/xicsrt?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
+* [**FILDSIM**](https://github.com/JoseRuedaRueda/uFILDSIM) ![GitHub User's stars](https://img.shields.io/github/stars/JoseRuedaRueda/uFILDSIM?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
+* [**TANGO**](https://github.com/llnl/tango) ![GitHub User's stars](https://img.shields.io/github/stars/llnl/tango?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
+* [**ESSOS**](https://github.com/uwplasma/ESSOS) ![GitHub User's stars](https://img.shields.io/github/stars/uwplasma/ESSOS?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
 
 ## Tags to search: 
 
