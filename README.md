@@ -37,6 +37,8 @@ I have initiated this repository to collect (and maintain?) a list of open-sourc
 * [**SIMPLE**](https://github.com/itpplasma/SIMPLE) ![GitHub User's stars](https://img.shields.io/github/stars/itpplasma/SIMPLE?style=flat&label=%E2%AD%90): Symplectic Integration Methods for Particle Loss Estimation
 * [**BIEST**](https://github.com/dmalhotra/BIEST) ![GitHub User's stars](https://img.shields.io/github/stars/dmalhotra/BIEST?style=flat&label=%E2%AD%90): Boundary Integral Equation Solver for Taylor states
 * [**GVEC**](https://gitlab.mpcdf.mpg.de/gvec-group/gvec): Galerkin Variational Equilibrium Code - an open-source software for the generation of three-dimensional ideal MHD equilibria
+* [**FESTIM**](https://github.com/festim-dev/FESTIM) ![GitHub User's stars](https://img.shields.io/github/stars/festim-dev/FESTIM?style=flat&label=%E2%AD%90): Finite-element modelling of hydrogen isotope transport in materials
+
 
 ## Tags to search: 
 
